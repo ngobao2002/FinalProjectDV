@@ -84,11 +84,11 @@ public class HomeFragment extends Fragment implements CategoryRVAdapter.Category
         categoryArrayList.add(new Category("All",R.drawable.img_category1));
         categoryArrayList.add(new Category("Adidas",R.drawable.img_category2));
         categoryArrayList.add(new Category("Puma",R.drawable.img_category3));
-        categoryArrayList.add(new Category("Balenciaga",R.drawable.img_category4));
+        categoryArrayList.add(new Category("Balenciaga",R.drawable.balenciaga));
         categoryArrayList.add(new Category("Converse",R.drawable.img_category5));
         categoryArrayList.add(new Category("Nike",R.drawable.img_category6));
-        categoryArrayList.add(new Category("Vans",R.drawable.img_category7));
-        categoryArrayList.add(new Category("New Blance",R.drawable.img_category8));
+        categoryArrayList.add(new Category("Vans",R.drawable.vans));
+        categoryArrayList.add(new Category("New Blance", R.drawable.newblance));
         categoryRVAdapter.notifyDataSetChanged();
     }
 
