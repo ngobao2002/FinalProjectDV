@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "233537867434",
+    "project_id": "fakeshopee-d10cb",
+    "storage_bucket": "fakeshopee-d10cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233537867434:android:f7ca419235624ce338cad3",
+        "android_client_info": {
+          "package_name": "com.example.finalprojectdv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233537867434-nsa9j1dnpucb1ppm164oj92f10s67eb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ7Ne5TJ40Ump7dSeuVTZ9076KaIO7EOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233537867434-nsa9j1dnpucb1ppm164oj92f10s67eb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
