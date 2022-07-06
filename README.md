@@ -17,43 +17,29 @@
     
  </p>
  
- <p align="center">
-    <a href="/docs/readme_fr.md">Français </a>
-    ·
-    <a href="/docs/readme_cn.md">简体中文</a>
-    ·
-    <a href="/docs/readme_es.md">Español</a>
-    ·
-    <a href="/docs/readme_de.md">Deutsch</a>
-    ·
-    <a href="/docs/readme_ja.md">日本語</a>
-    ·
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
-    ·
-    <a href="/docs/readme_it.md">Italiano</a>
-    ·
-    <a href="/docs/readme_kr.md">한국어</a>
-    .
-    <a href="/docs/readme_nl.md">Nederlands</a>
-    .
-    <a href="/docs/readme_np.md">नेपाली</a>
-    .
-    <a href="/docs/readme_tr.md">Türkçe</a>
-  </p>
+<p align="center">
+<img src="https://img.shields.io/github/commit-activity/w/ngobao2002/FinalProjectDV" alt="">
+<img src="https://img.shields.io/github/last-commit/ngobao2002/FinalProjectDV" alt="">
 </p>
+ 
+
+ 
  
  #### Table of contents:
 1. [ About the project. ](#pro)
 2. [ Our tech stack. ](#tech)
 3. [ Getting started. ](#get)
 
-    i.[ Installation. ](#desc) 
+    i.  [ Build with. ](#desc)
+    
+    ii. [ Installation. ](#ins)
+    
 4. [ Demo video. ](#demo)
 5. [ Contact. ](#con)
 
 <a name="pro"></a>
 # About the project:
-This project is a final project of mobile class at university. We try to use java to build a shopping online app on mobile.
+This project is a final exam of Mobile class at university. In this project we used Java, Android studio and Firebase to build an mobile application about shoping online. Our project try to help user can buy sneaker at home instead of going to sneaker store. In addtition, our project synthesizes the basic knowledge taught in class about mobile development such as creating a search bar, navigation bar, ...
 
 <a name="tech"></a>
 ## Our tech stack: 
@@ -69,8 +55,13 @@ This project is a final project of mobile class at university. We try to use jav
 # Getting started:
 
 <a name="desc"></a>
-## Installation:
+## Build with:
 - Firebase: [Connect firebase to android](https://firebase.google.com/)
+- Clone the repo:
+
+
+<a name="ins"></a>
+## Installation:
 
 <a name="demo"></a>
 # Demo video:
@@ -100,8 +91,8 @@ Email: tri.phan200209@vnuk.edu.vn
 Github: https://github.com/phanTri02
 ```
 
-4/ <a href="https://github.com/dangviet610" target="_blank">Truong Nguyen</a>:
+4/ <a href="https://github.com/dangviet610" target="_blank">Dang Viet</a>:
 ```
-Email: vie.dang200218@vnuk.edu.vn
+Email: viet.dang200218@vnuk.edu.vn
 Github: https://github.com/dangviet610
 ```
