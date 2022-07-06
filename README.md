@@ -1,6 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
+   <img src="https://github.com/ngobao2002/FinalProjectDV/blob/master/app/src/main/res/drawable/logo.png" alt="">
 
   <h1 align="center">Mobile final project</h1>
   
@@ -30,9 +31,11 @@
 2. [ Our tech stack. ](#tech)
 3. [ Getting started. ](#get)
 
-    i.  [ Build with. ](#desc)
+    i.   [ Build with. ](#desc)
     
-    ii. [ Installation. ](#ins)
+    ii.  [ Installation. ](#ins)
+    
+    iii. [ Usage. ](#usage)
     
 4. [ Demo video. ](#demo)
 5. [ Contact. ](#con)
@@ -56,17 +59,50 @@ This project is a final exam of Mobile class at university. In this project we u
 
 <a name="desc"></a>
 ## Build with:
-- Firebase: [Connect firebase to android](https://firebase.google.com/)
-- Clone the repo:
+- Firebase: [Browse in here](https://firebase.google.com/)
+- Android studio: [Dowload in here](https://developer.android.com/studio?gclid=Cj0KCQjw5ZSWBhCVARIsALERCvyKBaGD-yt1nSi3uv5Nyhl98ZONHtdj1WhYVKaSvCymZSKjqyCy0NgaAgsGEALw_wcB&gclsrc=aw.ds)
 
 
 <a name="ins"></a>
 ## Installation:
+1. Clone the repo by git bash:
+```sh
+   git clone https://github.com/ngobao2002/FinalProjectDV.git
+```
+2. Clone the repo by Android studio:
+```sh
+   File -> New -> Project from Version control
+   Input the link https://github.com/ngobao2002/FinalProjectDV.git to URL box
+```
+3. Connect with firebase: 
+```sh
+   You make a new account on firebase.google.com
+   We have the video to help you how to connect with firebase on Reference part
+```
+4. Dowload the image product from this drive to your phone or emulator: [Product drive](https://drive.google.com/drive/folders/1-YPYgermwD9zXGZsT2zTid2tjSGJiydi?usp=sharing)
 
+<a name="usage"></a>
+## Usage:
+1. Login and register page:
+    - New user need to register before login
+    - Login and start to use the app
+2. Add product:
+    - Click the third button
+    - Input the name product
+    - Choose the brand, category and color
+    - Input the version, price, quanity, detail product
+    - Add image
+    - Click add button
+    - You can see the new product on the first page.
+ 3. Buy product:
+    - You can see the product after add
+    - Click the product and choose the size color and click add to cart
+    - You can check the cart on the button 2
 <a name="demo"></a>
 # Demo video:
 
 Please see the [video](https://drive.google.com/file/d/1NRcecTvPy6vTpiUj3DlQ0zrAUjPgmFQv/view?usp=sharing) by [BTVN team](https://github.com/ngobao2002).
+
   
 <a name="con"></a>  
 
