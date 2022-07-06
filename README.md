@@ -9,29 +9,35 @@
     <br />
     <br />
     <a href="https://github.com/ngobao2002/Midterm_webGame/issues">Report Bug</a>
-    ·
+    .
     <a href="https://github.com/ngobao2002/Midterm_webGame/issues">Request Feature</a>
+    .
+    <a href="https://drive.google.com/file/d/1NRcecTvPy6vTpiUj3DlQ0zrAUjPgmFQv/view?usp=sharing">View Demo</a>
+
     
  </p>
  
  #### Table of contents:
 1. [ About the project. ](#pro)
-2. [ Built with. ](#tech)
+2. [ Our tech stack. ](#tech)
 3. [ Getting started. ](#get)
 
     i.[ Installation. ](#desc) 
    
 4. [ Contact. ](#con)
+
+<a name="pro"></a>
 # About the project:
 This project is a final project of mobile class at university. We try to use java to build a shopping online app on mobile.
 
 <a name="tech"></a>
-## Built with: 
+## Our tech stack: 
 
 
--  Java
--  Firbase
--  Android Studio
+-  ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+-  ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
+-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+-  ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 
 <a name="get"></a>
