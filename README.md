@@ -6,7 +6,7 @@
   <h1 align="center">Mobile final project</h1>
   
    <p align="center">
-    This project is about online gaming store.
+    This project is about online store mobile application.
     <br />
     <br />
     <a href="https://github.com/ngobao2002/Midterm_webGame/issues">Report Bug</a>
