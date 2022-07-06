@@ -23,7 +23,7 @@
    
 4. [ Contact. ](#con)
 # About the project:
-This project is a final project of mobile class at university. We try to use java to build a shopping online app on mobile: [Peaceful Store](http://peacefulstore.atwebpages.com/)
+This project is a final project of mobile class at university. We try to use java to build a shopping online app on mobile.
 
 <a name="tech"></a>
 ## Built with: 
