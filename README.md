@@ -17,14 +17,39 @@
     
  </p>
  
+ <p align="center">
+    <a href="/docs/readme_fr.md">Français </a>
+    ·
+    <a href="/docs/readme_cn.md">简体中文</a>
+    ·
+    <a href="/docs/readme_es.md">Español</a>
+    ·
+    <a href="/docs/readme_de.md">Deutsch</a>
+    ·
+    <a href="/docs/readme_ja.md">日本語</a>
+    ·
+    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
+    ·
+    <a href="/docs/readme_it.md">Italiano</a>
+    ·
+    <a href="/docs/readme_kr.md">한국어</a>
+    .
+    <a href="/docs/readme_nl.md">Nederlands</a>
+    .
+    <a href="/docs/readme_np.md">नेपाली</a>
+    .
+    <a href="/docs/readme_tr.md">Türkçe</a>
+  </p>
+</p>
+ 
  #### Table of contents:
 1. [ About the project. ](#pro)
 2. [ Our tech stack. ](#tech)
 3. [ Getting started. ](#get)
 
     i.[ Installation. ](#desc) 
-   
-4. [ Contact. ](#con)
+4. [ Demo video. ](#demo)
+5. [ Contact. ](#con)
 
 <a name="pro"></a>
 # About the project:
@@ -47,10 +72,14 @@ This project is a final project of mobile class at university. We try to use jav
 ## Installation:
 - Firebase: [Connect firebase to android](https://firebase.google.com/)
 
+<a name="demo"></a>
+# Demo video:
+
+Please see the [video](https://drive.google.com/file/d/1NRcecTvPy6vTpiUj3DlQ0zrAUjPgmFQv/view?usp=sharing) by [BTVN team](https://github.com/ngobao2002).
   
 <a name="con"></a>  
 
-## Reference:
+# Reference:
 - This video to instruct how to connect firebase to android: [Trung Tâm Đào Tạo Công Nghệ Khoa Phạm](https://www.youtube.com/watch?v=S-lt4ReIodw&list=PLzrVYRai0riTLPLclyGuByHvZ8_tDZZIr)
 ## Contact:
 1/ <a href="https://github.com/ppn243" target="_blank">Nguyen Phan</a>:
